@@ -2,6 +2,8 @@
 
 <h2>Chapter 13 - Vue HTTP in Vue JS</h2>
 
+- Class 01: Install vue-resource in Vue JS
+
 
 ## Technologies used
 - VueJS;
