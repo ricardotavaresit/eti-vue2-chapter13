@@ -1,18 +1,15 @@
-# eti-vue2-chapter13
+<p align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="200px"></p>
 
-> A Vue.js project
+<h2>Chapter 13 - Vue HTTP in Vue JS</h2>
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+## Technologies used
+- VueJS;
+- HTML;
+- JavaScript
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Contact Us
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- Email: ricardotavaresit@gmail.com
+- Tlm: +351 968 348 200
+- [LinkedIn](https://www.linkedin.com/in/ricardotavaresit/)
